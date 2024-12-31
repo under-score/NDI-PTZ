@@ -9,7 +9,7 @@ Needs Python 3.8
 Needs NDI SDK https://ndi.video/for-developers/ndi-sdk/download/
 Needs the libraries signal, time and NDIlib
 Based on example code at NDI SDK (NDIlib_Recv_PTZ.cpp)
-Includes an intentional typo ndi.FRANE_TYPE_STATUS_CHANGE instead of ndi.FRAME_TYPE_STATUS_CHANGE:
+Includes an intentional typo ndi.FRANE_TYPE_STATUS_CHANGE instead of ndi.FRAME_TYPE_STATUS_CHANGE
 With help of ChatGPT o1
 
 @author: wjst
