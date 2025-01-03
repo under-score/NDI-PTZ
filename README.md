@@ -12,7 +12,7 @@ Needs the libraries signal, time and NDIlib
 
 Firewall is OK but disable any VPN
 
-Based on example code at NDI SDK (NDIlib_Recv_PTZ.cpp)
+Based on example code of NDI SDK NDIlib_Recv_PTZ.cpp and https://github.com/buresu/ndi-python
 
 Includes an intentional typo ndi.FRANE_TYPE_STATUS_CHANGE instead of ndi.FRAME_TYPE_STATUS_CHANGE
 
